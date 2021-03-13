@@ -1,0 +1,43 @@
+body
+{
+    background-image: url("\img\fon.jpg");
+    line-height: 1.5;
+    margin: 0;
+}
+.pic
+{
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: sans-serif;
+    background-color: #efefef;
+    background: linear-gradient(-20deg, rgba(199, 120, 56, 1), rgba(50, 153, 161, 1), rgba(50, 153, 121, 1), rgba(51, 51, 161, 1), rgba(105, 48, 176, 1), rgba(143, 70, 170, 1));
+    width: 1600px;
+    border: 3px solid black;
+    margin: 25px auto;
+    text-align: center;
+    border-radius: 10%;
+    padding-bottom: 40px;
+    padding-top: 5px;
+}
+h1 {
+    background: url("\img\grad2.jpg");
+    border: 3px solid black;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: #efefef;
+    width: 800px;
+    margin: 35px auto;
+    margin-top: 100px;
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+}
+img
+{
+    border: 1px solid;
+    border-radius: 5%;
+    padding 10xp 10px;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
